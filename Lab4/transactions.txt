@@ -1,0 +1,5 @@
+1234,Deposit,1234.0
+1234,Deposit,2000.0
+1234,Deposit,3000.0
+1234,Deposit,3000.0
+1234,Withdraw,8000.0
